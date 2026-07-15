@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "copa2026_simulator"
+  ],
+  "packages": [
+    {
+      "name": "copa2026_simulator",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
