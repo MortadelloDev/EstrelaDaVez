@@ -33,7 +33,7 @@ void main() async {
         TabelaService.exibirTabela(selecoesGrupoA);
         break;
       case '3':
-        print('\n⚽ Obrigado por usar o Simulador da Copa 2026! Até o próximo semestre com Flutter!');
+        print('\n⚽ Obrigado por usar a Estrela da vez! Até o próximo semestre com Flutter!');
         rodando = false;
         break;
       default:
